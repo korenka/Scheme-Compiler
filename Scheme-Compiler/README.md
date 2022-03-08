@@ -1,4 +1,4 @@
-# Scheme Compiler
+# Scheme Compiler runs on Linux OS
 
 The compiler above is a OCaml based compiler, written as part of my Compiler Construction academic course.
 
